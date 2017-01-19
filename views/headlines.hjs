@@ -1,0 +1,8 @@
+
+<ul>
+	{{#headlines}}
+		<li>
+			{{.}}
+		</li>
+	{{/headlines}}
+</ul>

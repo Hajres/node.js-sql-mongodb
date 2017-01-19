@@ -1,0 +1,18 @@
+<html>
+  <head>
+  
+  </head>
+  <body>
+    <h1>{{title}}</h1>
+    
+      <ul>
+        {{#tweets}}
+          <li>
+            {{text}}
+          </li>
+        {{/tweets}} 
+    </ul> 
+   
+  
+  </body>
+</html>
